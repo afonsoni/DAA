@@ -8,6 +8,8 @@ Data and Machine Learning (Dados e Aprendizagem Automática)
 
 Design and Optimization of Machine Learning Models
 
+[Assignment](Enunciado.pdf) (in portuguese)
+
 ### Learning Objectives
 
 - Motivate students to design and develop a Machine Learning project.
